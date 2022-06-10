@@ -3,5 +3,6 @@
 int	main(void)
 {
 	printf("salut");
+	printf("coucou");
 	return (0);
 }
